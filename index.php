@@ -17,38 +17,10 @@
         <a class="Link" href="#">About US</a>
     </div>
 </nav>
-<div>
-    <aside>
-        <div id="News">
-            <div class="AsideTitle">title</div>
-            <ul class="AsideText">
-                <li><a href="#">news1</a></li>
-                <li><a href="#">news1</a></li>
-                <li><a href="#">news1</a></li>
-                <li><a href="#">news1</a></li>
-            </ul>
-        </div>
-        <div id="News">
-            <div class="AsideTitle">title</div>
-            <ul class="AsideText">
-                <li><a href="#">news1</a></li>
-                <li><a href="#">news1</a></li>
-                <li><a href="#">news1</a></li>
-                <li><a href="#">news1</a></li>
-            </ul>
-        </div>
-        <div id="News">
-            <div class="AsideTitle">title</div>
-            <ul class="AsideText">
-                <li><a href="#">news1</a></li>
-                <li><a href="#">news1</a></li>
-                <li><a href="#">news1</a></li>
-                <li><a href="#">news1</a></li>
-            </ul>
-        </div>
-    </aside>
-    <comment></comment>
-</div>
+<main>
+    <div id="slider"></div>
+    <section></section>
+</main>
 
 </body>
 </html>

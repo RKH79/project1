@@ -38,29 +38,3 @@ nav{
 .Link:hover{
     color: var(--color1);
 }
-aside{
-    width: 15vw;
-    min-width: 100px;
-    float: right;
-    margin-top: 50px;
-    padding-right: 20px;
-    border: var(--MainColor) solid 1px;
-}
-aside *:nth-child(n+1){
-    padding-bottom: 10px;
-}
-aside *{
-    list-style: none;
-    text-decoration: none;
-    color: var(--color3);
-    margin: 0;
-}
-aside *:hover{
-    color: var(--color1);
-}
-.AsideTitle{
-    text-align: center;
-}
-aside > div{
-    border-bottom: solid 1px var(--MainColor);
-}
