@@ -15,26 +15,48 @@ nav{
     background-size: cover;
     border-bottom: var(--MainColor) solid 1px;
     position: fixed;
+    background-color: white;
 }
-#Icon{
+#icon{
     width: 35px;
     height: 35px;
     fill: var(--MainColor);
-    margin: 7px;
+    margin: 7px 20px;
     cursor: pointer;
+    background-image: url("../icon/book.ico");
+    background-size: cover;
 }
-#Links{
+#links{
     float: right;
     position:absolute;
     right: 25px;
     top: 15px;
 }
-.Link{
+.link{
     display: inline-block;
     text-decoration: none;
     color: var(--color3);
     padding-right: 15px;
 }
-.Link:hover{
+.link:hover{
     color: var(--color1);
+}
+main{
+    width: 100vw;
+    padding-top:50px;
+}
+#slider{
+    width: 100vw;
+    height: 25vw;
+    background-color: var(--color3);
+}
+#slideBox {
+    width: 100%;
+    height: 100%;
+}
+.slide{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    display: none;
 }
