@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="Style/Style.css" rel="stylesheet" type="text/css">
     <link rel="icon" href="icon/book.ico" type="image/x-icon"/>
-    <title>Document</title>
+    <title>test</title>
 </head>
 <body>
 <nav>
