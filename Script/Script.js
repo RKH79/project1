@@ -11,6 +11,6 @@ function slide() {
     else
         slideBox[activeSlide - 1].style.display = 'none';
     slideBox[activeSlide].style.display = 'block';
-    console.log(activeSlide);
+    //console.log(activeSlide);
 }
 setInterval(slide(), 1000);
